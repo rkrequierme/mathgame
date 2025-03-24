@@ -1,0 +1,11 @@
+# Python Math Quiz Game Requirements
+# Install these dependencies using pip
+
+# Core Python Standard Library (built-in, no installation needed)
+# - sqlite3
+# - random
+# - math
+# - tkinter (usually comes with Python standard installation)
+
+# Note: This project uses only built-in Python libraries
+# No external dependencies required!
